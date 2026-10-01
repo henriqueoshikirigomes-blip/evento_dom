@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    color: white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+#caixa {
+    padding: 15px;
+    border: 1px solid #ffbd09;
+    border-radius: 6px;
+    margin-top: 10px;
+}
+
+.destaque {
+    background-color: black;
+    font-weight: bold;
+}
